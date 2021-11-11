@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Nov 2021 01:39:29 at https://demo.goodlayers.com/kingster/bachelor-of-science-in-business-administration/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.goodlayers.com/kingster/bachelor-of-science-in-business-administration/ -O1 "C:\Users\kamp_\Desktop\perfil\perfil" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:41:06	Warning: 	Retry after error -4 (Incorrect length (527654 Bytes, 732787 expected)) at link a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/shutterstock_59887279.jpg (from https://demo.goodlayers.com/kingster/bachelor-of-science-in-business-administration/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 4 seconds : 61 links scanned, 59 files written (5277511 bytes overall) [3013466 bytes received at 24302 bytes/sec], 2865075 bytes transferred using HTTP compression in 31 files, ratio 19%, 1.5 requests per connection
+(No errors, 1 warnings, 0 messages)
